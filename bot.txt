@@ -1,0 +1,2 @@
+ip; nabilrafsunemail.aternos.me:14168
+port;14168
